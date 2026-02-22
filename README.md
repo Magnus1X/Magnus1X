@@ -95,6 +95,7 @@ I'm a passionate **Full Stack Developer** from India, specializing in modern web
 ## 🏆 Achievements & Certifications
 
 - **LeetCode** - [MagnusX](https://leetcode.com/u/MagnusX/)
+- **CodeForces** - [MagnusX](https://codeforces.com/MagnusX)
 - **Problem Solving** - Strong algorithmic thinking and data structures knowledge
 
 ---
