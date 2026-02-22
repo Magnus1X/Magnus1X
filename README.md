@@ -71,26 +71,6 @@ I'm a passionate **Full Stack Developer** from India, specializing in modern web
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mohitbhalotia/mohitbhalotia/output/snake.svg" alt="Snake animation" />
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=mohitbhalotia&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitbhalotia&layout=compact&theme=radical" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🏆 Achievements & Certifications
 
