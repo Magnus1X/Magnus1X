@@ -6,10 +6,10 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-bhalotia)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohitbhalo78641)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://mohit-bhalotia.vercel.app)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitkumarbhalotia@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-kumar-b7b87b338/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SauravK75745218)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://my-portfolio-frontend-321q.onrender.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:95sauravkumar95@gmail.com)
   
 </div>
 
@@ -21,7 +21,7 @@ I'm a passionate **Full Stack Developer** from India, specializing in modern web
 
 - **Full Stack Development** - Building end-to-end web applications
 - **Modern Web Technologies** - React, Next.js, Node.js, and more
-- **Database Design** - MongoDB, PostgreSQL, MySQL
+- **Database Design** - MongoDB, MySQL
 - **Cloud Deployment** - Vercel, Firebase, and other cloud platforms
 - **Generative AI** - Exploring AI-powered solutions
 
@@ -94,8 +94,7 @@ I'm a passionate **Full Stack Developer** from India, specializing in modern web
 
 ## 🏆 Achievements & Certifications
 
-- **LeetCode** - [mohitkumarbhalotia420](https://leetcode.com/u/mohitkumarbhalotia420)
-- **GeeksforGeeks** - [mohitkumarbt2ic](https://www.geeksforgeeks.org/user/mohitkumarbt2ic/)
+- **LeetCode** - [MagnusX](https://leetcode.com/u/MagnusX/)
 - **Problem Solving** - Strong algorithmic thinking and data structures knowledge
 
 ---
@@ -104,11 +103,11 @@ I'm a passionate **Full Stack Developer** from India, specializing in modern web
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-bhalotia)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohitbhalo78641)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://mohit-bhalotia.vercel.app)
-  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/drive/folders/18JFo_xbZ53c1yNDH47bd2A_lRRFaM0Pf?usp=sharing)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitkumarbhalotia@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurav-kumar-b7b87b338/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SauravK75745218)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://my-portfolio-frontend-321q.onrender.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:95sauravkumar95@gmail.com)
+  [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/drive/folders/1sC3xWE6mtmw5FRJpT_dGsXxNEeAd3LiO)
   
 </div>
 
